@@ -25,7 +25,6 @@
     "loader",
     "form",
     "icon",
-    "segment",
     "message"
   ],
   "version": "2.2.2"
